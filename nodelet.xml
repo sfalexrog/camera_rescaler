@@ -1,0 +1,8 @@
+<library path="lib/libcamera_rescaler">
+  <class name="camera_rescaler/CameraRescalerNodelet"
+         type="camera_rescaler::CameraRescalerNodelet" base_class_type="nodelet::Nodelet">
+    <description>
+      Camera rescaler nodelet.
+    </description>
+  </class>
+</library>
